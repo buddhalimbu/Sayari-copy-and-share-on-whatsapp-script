@@ -20,7 +20,7 @@ height:auto;
 box-sizing:content-box;
 margin-bottom:10px;
 }
-.sayari-box:nth-child(odd){
+.sayari-wrapper:nth-child(odd){
 clear:both;
 }
 .sayari-box{
