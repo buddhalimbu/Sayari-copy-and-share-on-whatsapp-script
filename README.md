@@ -11,4 +11,5 @@ This jQuery script which will let you to copy the sayari or anything form your p
 - You can style it using your own CSS STYLES.
 
 
-**Scrit by** : [BUDDHA](https://buddhalimbu.github.io)
+**Scrpit by** : [BUDDHA](https://buddhalimbu.github.io)
+//JQuery
