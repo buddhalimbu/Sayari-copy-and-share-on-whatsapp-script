@@ -6,7 +6,7 @@ This jQuery script which will let you to copy the sayari or anything form your p
 ## How to Use ##
 - Create a class with class name .sayari. **E.G &lt;div class='sayari'&gt;Something here&lt;/div&gt;.**
 
-# Use the script from our side rest will we do ##
+#Use the script from our side rest we will do --
 
 - Now copy the script and paste it in your just above end of head tag or body tag.
 - you can paste just following script just before end of &lt;/body&gt;
@@ -19,4 +19,4 @@ OR OUR CSS : *[https://buddhalimbu.github.io/sayariscript/style.css]*
 
 
 **Scrpit by** : [BUDDHA](https://buddhalimbu.github.io)
-//JQuery
+//JavaScript 
