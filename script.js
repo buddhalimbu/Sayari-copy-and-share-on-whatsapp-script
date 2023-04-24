@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
       let parentElement = this.parentElement.parentElement;
       let sayariElement = parentElement.querySelector('.sayari');
       let title = document.location.origin;
-      let text = sayariElement.textContent;
+      let text = sayariElement.textContent.trim();
       let msg = encodeURIComponent(text) + ' - ' + title;
       let open_url = 'https://api.whatsapp.com/send?text=' + msg;
       window.open(open_url, '_blank');
